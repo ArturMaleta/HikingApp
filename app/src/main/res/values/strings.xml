@@ -1,0 +1,10 @@
+<resources>
+    <string name="welcomeText">Welcome to </string>
+    <string name="app_name">HIKING APP</string>
+    <string name="chooseDestinationButton">Choose your destination</string>
+    <string name="latitudeConstant">Latitude:</string>
+    <string name="longitudeConstant">Longitude:</string>
+    <string name="coordinatesConstant">Your coordinates:</string>
+    <string name="locationInfoTopBar">Where are you?</string>
+    <string name="startActivity">Choose your destination</string>
+</resources>
